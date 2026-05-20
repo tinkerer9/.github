@@ -9,9 +9,4 @@ Please report security vulnerabilities by filling out the following template:
 - **DESCRIPTION:** Please provide precise description of the security vulnerability you have found with as much information as you are able and willing to provide.
 
 Please send the above info, along with any other information you feel is pertinent to: makermax101@gmail.com.
-
-In addition, you may request that the project provide you a patched release in advance of the release announcement, however, we can not guarantee that such information will be provided to you in advance of the public release and announcement.
-
-However, Max Parisi ([@tinkerer9](https://github.com/tinkerer9)) will email you at the same time the public announcement is made.
-We will let you know within a few weeks whether or not your report has been accepted or rejected.
-We ask that you please keep the report confidential until we have made a public announcement.
+Please **do not** make an issue about this, as vulnerabilities should be kept private.
